@@ -1,0 +1,170 @@
+<!-- index.html (Home Page) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Broadriver Taxidermy and Processing</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header>
+    <h1>Broadriver Taxidermy & Processing</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h2>Preserving Nature. Processing Quality.</h2>
+      <p>Your trusted local taxidermist and wild game processor.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Broadriver Taxidermy & Processing</p>
+  </footer>
+</body>
+</html>
+
+<!-- about.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About - Broadriver</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header>
+    <h1>Broadriver Taxidermy & Processing</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h2>About Us</h2>
+    <p>Broadriver Taxidermy & Processing is a family-run business committed to preserving your prized harvests and providing expert wild game processing. With years of experience and a passion for the outdoors, we offer top-quality craftsmanship and honest, dependable service.</p>
+  </main>
+  <footer>
+    <p>&copy; 2025 Broadriver Taxidermy & Processing</p>
+  </footer>
+</body>
+</html>
+
+<!-- services.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Services - Broadriver</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header>
+    <h1>Broadriver Taxidermy & Processing</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h2>Our Services</h2>
+    <h3>Taxidermy</h3>
+    <p>We offer full shoulder mounts, European mounts, and more for deer, fish, birds, and other game.</p>
+
+    <h3>Wild Game Processing</h3>
+    <p>We provide expert processing with vacuum-sealed packaging, cut-to-order options, and prompt turnaround during hunting season.</p>
+  </main>
+  <footer>
+    <p>&copy; 2025 Broadriver Taxidermy & Processing</p>
+  </footer>
+</body>
+</html>
+
+<!-- gallery.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gallery - Broadriver</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header>
+    <h1>Broadriver Taxidermy & Processing</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h2>Gallery</h2>
+    <p>Check back soon to see examples of our taxidermy work and custom processing!</p>
+  </main>
+  <footer>
+    <p>&copy; 2025 Broadriver Taxidermy & Processing</p>
+  </footer>
+</body>
+</html>
+
+<!-- contact.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact - Broadriver</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header>
+    <h1>Broadriver Taxidermy & Processing</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h2>Contact Us</h2>
+    <p><strong>Phone:</strong> (123) 456-7890</p>
+    <p><strong>Email:</strong> info@broadrivertaxidermy.com</p>
+    <p><strong>Location:</strong> 123 Wildlife Lane, Hometown, USA</p>
+    <p><strong>Hours:</strong> Mon–Fri: 8am–6pm | Sat: 9am–3pm | Sun: Closed</p>
+  </main>
+  <footer>
+    <p>&copy; 2025 Broadriver Taxidermy & Processing</p>
+  </footer>
+</body>
+</html>
