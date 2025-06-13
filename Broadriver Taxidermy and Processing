@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Broadriver Taxidermy and Processing</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <header>
+    <div class="logo">Broadriver Taxidermy and Processing</div>
+    <nav>
+      <ul>
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Preserve Your Trophy. Process with Precision.</h1>
+    <p>Top-tier taxidermy and deer processing services — built on tradition, perfected through skill.</p>
+    <a href="contact.html" class="btn">Request a Quote</a>
+  </section>
+
+  <section class="services-preview">
+    <h2>Our Specialties</h2>
+    <div class="service-items">
+      <div class="service-card">
+        <h3>Taxidermy</h3>
+        <p>Shoulder mounts, full-body displays, birds, fish & more. Realism that lasts a lifetime.</p>
+      </div>
+      <div class="service-card">
+        <h3>Deer Processing</h3>
+        <p>Clean cuts, vacuum-sealed packaging, specialty sausages & jerky options available.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Wild Edge Taxidermy. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
